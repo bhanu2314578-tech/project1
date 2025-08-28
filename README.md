@@ -1,6 +1,6 @@
-Of course! Here is the contents of a comprehensive `README.md` file for your Titanic EDA project. You can copy and paste this into a new file in your project folder.
+Here are the contents of Titanic EDA project.
 
-```markdown
+```
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
