@@ -1,6 +1,6 @@
 Here are the contents of Titanic EDA project.
 
-```
+
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -141,4 +141,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Author:** Bhanu Pratap Singh
 **Date:** August 2025
-```
+
